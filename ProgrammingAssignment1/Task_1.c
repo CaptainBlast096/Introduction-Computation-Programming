@@ -1,3 +1,12 @@
+/************************************************************
+* Name: ---------  ---------
+* Programming Assignment 1
+* Date: 01-19-2022
+* Description:   This is the first program in C The
+*                code prints "Hello, World!" on the
+*                screen.
+*************************************************************/
+
 // Header Files
 #include <stdio.h>
 
