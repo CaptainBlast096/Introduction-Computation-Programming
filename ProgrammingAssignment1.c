@@ -15,10 +15,13 @@ int main(int argc, char *argv[])
 {
     // printf is a function in the standard library I/O 
     // header, and it prints the values on the standard output.
+    printf("Task 1\n");
+    printf("-----------------------------------------\n");
     printf("Hello, World!\n");
 
    
-    
+    printf("Task 2\n");
+    printf("-----------------------------------------\n");
     printf("Florida Polytechnic University\n");
     printf("Student ID Card\n\n");
     printf("Name: John Smith\n");
