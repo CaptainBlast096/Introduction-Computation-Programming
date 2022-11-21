@@ -1,3 +1,14 @@
+/**************************************************************************************************
+ * Title:               Assignment #5 Task 1
+ * Author:              Jaleel Rogers
+ * Email:               jrogers1239@floridapoly.edu
+ * Creation date:       02/23/2022 @ 01:50 AM
+ * Modification date:   02/23/2922 @ 12:45 PM
+ * Description:         The program will use switch and while statements to continuously read a character and classify
+ *                      it as a vowel or consonant if the entered character is an alphabet. If the entered character
+ *                      is not an alphabet, then the program will print "Not an English alphabet".
+ *                      The program will stop when an EOF character is entered.
+ **************************************************************************************************/
 #include <stdio.h>
 int main()
 
