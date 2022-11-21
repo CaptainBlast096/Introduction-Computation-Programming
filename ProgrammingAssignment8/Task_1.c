@@ -1,3 +1,19 @@
+/**************************************************************************************************
+ * Title:               Assignment #8 Task 1
+ * Author:              Jaleel Rogers
+ * Email:               jrogers1239@floridapoly.edu
+ * Creation date:       04/10/2022 @ 11:42 AM
+ * Modification date:   04/13/2022 @ 10:30 AM
+ * Description:         Suppose that a company has five employees, and their bi-weekly salaries are: $1,500,
+ *                      $3,000, $2,500, $3,300, and $5,000.
+                        Write a complete C program with the following specifications:
+                        1- Create an array with the employee’s salaries
+                        2- Create and use a function to display the salaries on the screen.
+                        3- Create and use a function that gives a 5% increase to the 5 employees.
+                        4- Displays the salaries before and after the 5% increase.
+
+ **************************************************************************************************/
+
 #include <stdio.h>
 
 void display(int salaries[]) // Displays the salaries of employees
