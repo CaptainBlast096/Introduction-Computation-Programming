@@ -1,3 +1,12 @@
+/***************************************************************************
+ * Title:               Assignment #2 Task 1
+ * Author:              Jaleel Rogers
+ * Email:               jrogers1239@floridapoly.edu
+ * Creation date:       01/25/2022 @ 08:30 PM
+ * Modification date:   01/25/2022 @ 12:40 PM
+ * Description:         This program will compare two integers and
+ *                      print the result of the comparison on the screen
+ **************************************************************************/
 #include <stdio.h>
 int main(int argc, char *argv[])
 {//Start of main
