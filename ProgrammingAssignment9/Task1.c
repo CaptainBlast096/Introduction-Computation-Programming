@@ -1,3 +1,15 @@
+/***************************************************************************
+ * Title:               Assignment #9 Task 1
+ * Author:              Jaleel Rogers
+ * Email:               jrogers1239@floridapoly.edu
+ * Creation date:       04/24/2022 @ 11:54 AM
+ * Modification date:   01/25/2022 @ 1:15 PM
+ * Description:         Write a C program that reads a string up to 1024 characters and uses a function called
+ *                      text_statistics to calculate statistics on the passed string.
+ *                      The function text_statistics has a string parameter and displays the number of digit
+ *                      characters in the string, the number of words in the string, the number of words that start
+                        with a lowercase letter, and the number of words that begin with an uppercase letter.
+ **************************************************************************/
 #include <stdio.h>
 
 
