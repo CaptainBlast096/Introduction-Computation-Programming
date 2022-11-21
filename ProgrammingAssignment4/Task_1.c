@@ -1,3 +1,13 @@
+/**************************************************************************************************
+ * Title:               Assignment #4 Task 1
+ * Author:              Jaleel Rogers
+ * Email:               jrogers1239@floridapoly.edu
+ * Creation date:       02/13/2022 @ 03:18 PM
+ * Modification date:   02/15/2022 @ 10:80 PM
+ * Description:         The program will use a while loop to print a conversions table between degrees Fahrenheit, degrees Celsius,
+                        and degrees Kelvin. The degrees Fahrenheit conversion table has Fahrenheit values from −30◦F to 150◦F with
+                        increments of 5◦F.
+ **************************************************************************************************/
 #include <stdio.h>
 
 
