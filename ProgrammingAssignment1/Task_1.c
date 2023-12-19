@@ -1,5 +1,5 @@
 /************************************************************
-* Name: ---------  ---------
+* Name: Jaleel Rogers
 * Programming Assignment 1
 * Date: 01-19-2022
 * Description:   This is the first program in C The
